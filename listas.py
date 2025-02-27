@@ -39,3 +39,14 @@ alumnos.remove('Goku')# metodo remove para eliminar un valor de la lista, lleva 
 print(alumnos)
 del alumnos[0]# podemos usar la palabra reservada del para eliminar un valor de la lista
 print(alumnos)
+print('***********************************************************************')
+# Editar elementos
+alumnos[2] = 'Milk'# podemos editar un valor de la lista asignando un nuevo valor a la posicion
+print(alumnos)
+
+print('***********************************************************************')
+# metodos extras
+alumnos.reverse()# metodo reverse para invertir la lista
+print(alumnos)
+alumnos.sort()# metodo sort para ordenar la lista
+print(alumnos)
