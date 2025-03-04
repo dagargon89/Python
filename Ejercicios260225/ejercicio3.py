@@ -1,4 +1,3 @@
-# Definir una lista de bandas de power metal
 bandas_power_metal = ['Helloween', 'Blind Guardian', 'Stratovarius', 'Rhapsody of Fire', 'Sonata Arctica']
 
 # Mostrar la lista actual

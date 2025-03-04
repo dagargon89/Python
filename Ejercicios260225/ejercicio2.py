@@ -1,4 +1,3 @@
-# Definir una lista de bandas de heavy metal
 bandas_heavy_metal = ['Metallica', 'Iron Maiden', 'Black Sabbath', 'Judas Priest', 'Megadeth']
 
 # Pedir al usuario que ingrese el nombre de una banda

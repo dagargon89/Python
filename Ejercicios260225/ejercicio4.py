@@ -1,5 +1,3 @@
-
-# Definir una lista de películas de terror
 peliculas_terror = ['El Exorcista', 'Halloween', 'Pesadilla en Elm Street', 'El Resplandor', 'It']
 
 # Mostrar la lista actual con sus respectivos índices

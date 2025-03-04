@@ -1,5 +1,3 @@
-
-# Definir una lista de animes
 lista_animes = ['Naruto', 'One Piece', 'Attack on Titan', 'My Hero Academia', 'Dragon Ball Z']
 
 # Mostrar la lista actual con sus respectivos índices
